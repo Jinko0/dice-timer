@@ -8,7 +8,7 @@ function Menu() {
         <div className='menu-background'>
             <div className='menu-button-wrapper'>
                 <div className='menu-button'>
-                    <NavLink to="/dice_selection">Lancer une partie</NavLink>
+                    <NavLink to="/diceSelection">Lancer une partie</NavLink>
                 </div>
                 <div className='menu-button'>
                     Manuel des règles

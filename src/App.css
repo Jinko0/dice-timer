@@ -1,0 +1,23 @@
+.App {
+  box-sizing: content-box;
+  overflow: hidden;
+}
+
+.menu-button {
+  width: 60vw;
+  height: 60px;
+  line-height: 60px;
+  font-size: 1.5rem;
+  text-align: center;
+  background-color: #c2c2c2;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.menu-button a {
+  text-decoration: none;
+}
+
+.selected-button {
+  border: 2px solid rgb(8, 255, 8);
+}
