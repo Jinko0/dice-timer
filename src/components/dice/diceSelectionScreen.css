@@ -1,0 +1,37 @@
+.dice-selection-wrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.dice-selection-title {
+    margin-top: 25vh;
+    font-size: 2rem;
+}
+
+.dices-wrapper {
+    display: flex;
+}
+
+.dice {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: black;
+    color: #fff;
+}
+
+.confirmation-button {
+    width: 100px;
+    height: 40px;
+    margin: 20px;
+    background-color: black;
+    color: #fff;
+}
+
+.hidden {
+    display: none;
+}
